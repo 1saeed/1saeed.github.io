@@ -1,51 +1,24 @@
-## Developer Portfolio Landing Page Template
+My site.
 
-### Introduction
+### Fancy using it for your own site?
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Here are some steps to get you started for local development:
 
-<img src="images/demo.gif?raw=true"/>
+1. Clone this repo and cd into the directory:
 
-### Installation
+  `git clone https://github.com/jamigibbs/portfolio.git your-dir-name`
+  `cd your-dir-name`
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+2. Run Jekyll:
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+  `jekyll serve --watch`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  _[Don't have Jekyll yet? ](http://jekyllrb.com/docs/installation/)_
 
-### Markdown
+3. In your browser, navigate to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  `http://127.0.0.1:4000`
 
-```markdown
-Syntax highlighted code block
+### Launching with Github Pages :rocket:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+You can [use your own custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) or use the default Github url (ie. http://username.github.io/repository) and not bother messing around with DNS settings.

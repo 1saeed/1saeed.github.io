@@ -58,12 +58,8 @@ content:
         link_text: Link Text
         quote: >
            Short overview of the project (optional)
-         aaaaa
         description: | # this will include new lines to allow paragraphs
            Description about the work on/with the project 123
-         asasasasasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-         assssssssssssssssssssssssssssssssssssssssssssssssssss
-         aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
   - title: Experience
     layout: list
     content:

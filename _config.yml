@@ -64,9 +64,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
             quote: >
-              Short overview of the project (optional)
+             Short overview of the project (optional)
             description: | # this will include new lines to allow paragraphs
-              Description about the work on/with the project
+             Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -78,7 +78,7 @@ content:
         quote: >
          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-        Description of role
+         Description of role
   - title: Education
     layout: list
     content:
@@ -89,7 +89,7 @@ content:
         quote: >
          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-        Description of qualification
+         Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

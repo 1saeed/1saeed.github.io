@@ -52,8 +52,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: default
-        title: Drone Control Board
+      - layout: top
+        title: Drone Control Board2
         quote: >
           Highly integrated mixed-signal carrier board based on Jetson Xavier NX
         description: | # this will include new lines to allow paragraphs

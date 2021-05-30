@@ -58,6 +58,7 @@ content:
         link_text: Link Text
         quote: >
           Short overview of the project (optional)
+          blah blah blah
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience

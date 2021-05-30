@@ -52,13 +52,10 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+      - layout: center
+        title: Drone Control Board
         quote: >
-          Short overview of the project (optional)
-          blah blah blah
+          Highly integrated mixed-signal carrier board based on Jetson Xavier NX 
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience

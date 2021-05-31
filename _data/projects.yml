@@ -1,0 +1,199 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Drone Baseboard
+- project: Drone Baseboard
+  role: Embedded Electronic Designer
+  duration: Jun. 2021 &mdash; Present
+  # url: "#"
+  description: >
+    Designing highly integrated mixed-signal electronics for a drone baseboard supporting the following modules:
+    <ul class="resume-item-list">
+    <li>NVIDIA Jetson Xavie NX </li>
+    <li>4x e-CAM24_CUNX and 1x e-CAM80_CUNX cameras </li>
+    <li>Pixracer Open Hardware flight controller </li>
+    <li>VIO Interface based on STM32G474 and ICM20689</li></ul>
+
+    Contribution:<br>
+    Schematic Design, Component Selection, PCB Stack-up Design, Signal/Power integrity Analysis, PCB Design, Analog Signal Conditioning
+
+
+
+# Robot Collision Avoidance System
+- project: Robot Collision Avoidance System
+  role: Embedded System Developer
+  duration: Dec.2020 &mdash; Present
+  # url: "#"
+  description: >
+    Designing, developing and building a multi-sensor system to detect objects around the robot:
+    <ul class="resume-item-list">
+    <li> XE132 Acconeer radar</li>
+    <li> VL53L0X ST ToF ranging rensors</li>
+    <li> Sensing Edge bumper switch</li>
+    <li> Internal CAN communication protocol</li>
+    <li> Ethernet-based ROS2 integration</li></ul>
+
+    Contribution:<br>
+    Embedded C/C++ Development, Driver Development, Carrier Board Design, Team Management, ROS2 Development
+
+
+# Industrial Signal Isolators
+- project: Industrial Signal Isolators
+  role: Embedded System Engineer
+  duration: May.2019 &mdash; Present
+  # url: "#"
+  description: >
+    Designed and developed loop-powered and non-loop-powered standard signal isolators resulted in:
+    <ul class="resume-item-list">
+    <li> 4-20mA to 4-20mA loop-powered PLC ative and transmitter passive isolator</li>
+    <li> 4-20mA to 4-20mA loop-powered   PLC passive and transmitter ative isolator</li>
+    <li> RTD to 4-20mA loop-powered isolator</li>
+    <li> 4-20mA 1 to 2 splitter isolator</li>
+    <li> 0-10V 1 to 2 splitter isolator</li></ul>
+
+    Contribution:<br>
+    Hardware Design, Ultra-Low-Power Electronic Design with less than 4mA budget, Team Management, Embedded C Development
+
+# 50KW High-Voltage Vibration Motor Driver
+- project: 50KW High-Voltage Vibration Motor Driver
+  role: Embedded System Engineer
+  duration: Dec.2019 &mdash; May. 2020
+  # url: "#"
+  description: >
+    Designed and implemented high-power 380V single-phase 50KW vibration motor driver:
+    <ul class="resume-item-list">
+    <li> Used random-phase triac control algorithm</li>
+    <li> Designed low-power precise zero-cross detection circuit</li>
+    <li> Wide-input power range: 90VAC-420VAC</li>
+    <li> Fully isolated</li>
+    <li> ESD, EMI/EMC, reverse-polarity, over-voltage and over-current protection</li></ul>
+
+    Contribution:<br>
+    Hardware Design, Embedded C Development, Deployment and Delivery Management
+
+# Molten Glass Level Meter System
+- project: Molten Glass Level Meter System
+  role: Embedded System Engineer
+  duration: May.2019 &mdash; Oct. 2019
+  # url: "#"
+  description: >
+    Designed and built a transmitter to sense the level of molten glass in furnace in a very precise fashion:
+    <ul class="resume-item-list">
+    <li> Worked in a very arduous conditions</li>
+    <li> Used three platimum tips to eliminate environmental variation</li>
+    <li> High-precision signal conditioning design</li>
+    <li> Excitation current control system</li>
+    <li> AC excitation method</li></ul>
+
+    Contribution:<br>
+    Hardware Design, Embedded C Development, Analog Front-End Design, Signal Conditioning Design, Mixed-Signal Analysis, Team Management
+
+# Environmental Condition Monitoring System
+- project: Environmental Condition Monitoring System
+  role: Embedded System Engineer
+  duration: Feb.2018 &mdash; Sep. 2018
+  # url: "#"
+  description: >
+    Designed and maintained a multi-sensor system to display and log environmental parameters like temperature, humidity and gas presence.
+    <ul class="resume-item-list">
+    <li> WiFi/Ethernet-based communication</li>
+    <li> Modbus TCP/IP protocol</li></ul>
+
+    Contribution:<br>
+    Team Management, Enclosure Design, Driver Development, Protocol Implementation
+
+# Olive Smart Suitcase
+- project: Olive Smart Suitcase Robot
+  role: Algorithm Engineer
+  duration: Jan.2017 &mdash; Jun. 2017
+  # url: "#"
+  description: >
+    Designed and developed a balance algorithm for a two-wheeled-segway-like system:
+    <ul class="resume-item-list">
+    <li> IMU feedback as a sensor</li>
+    <li> Two DC motor as actuators</li>
+    <li> Adaptive PID balance algorithm</li></ul>
+
+    Contribution:<br>
+    Embedded C++ Develepment, Control Algorithm Development
+
+# Networked Storage Server Hardware
+- project: Networked Storage Server Hardware
+  role: Embedded System Engineer
+  duration: Jan.2016 &mdash; Jan. 2017
+  # url: "#"
+  description: >
+    Designed and developed a multi-node networked storage server based on single-board-computers:
+    <ul class="resume-item-list">
+    <li> Cubiboard4.0 as SBC</li>
+    <li> Designed power and signal distribution board</li>
+    <li> Designed fully customized server enclosure</li></ul>
+
+    Contribution:<br>
+    System Design, Enclosure Design, Team Management, Delivery and Deployment
+
+# Pick and Place Robots
+- project: Pick and Place Robots
+  role: Embedded System Engineer
+  duration: Oct.2014 &mdash; Jan. 2016
+  # url: "#"
+  description: >
+    Designed, developed and maintaned two pick and place robots for a manufaturing painting line:
+    <ul class="resume-item-list">
+    <li> Designed fully industrial electrical parts</li>
+    <li> Designed Control Algorthms</li>
+    <li> Designed fault detection and emergencyaction system</li>
+    <li> Designed fully customized and isolated electronics</li>
+    <li> Servo motors as actuators </li>
+    <li> Proximity and pressure switches and encoders as sensors</li></ul>
+
+    Contribution:<br>
+    System Design, Electronic Design, Embedded C Development, Control Algorithm Design
+
+# Lead-Acid Battery Tester
+- project: Lead-Acid Battery Tester
+  role: Embedded System Engineer
+  duration: Oct.2013 &mdash; Oct. 2014
+  # url: "#"
+  description: >
+    Designed and developed a device to perform and demonstrate standard laed-acid charge and discharge cycle tests:
+    <ul class="resume-item-list">
+    <li> Designed high-precision charging/discharging current controller</li>
+    <li> RTOS framework development</li>
+    <li> Designed customized embedded user interface for a GLCD</li></ul>
+
+    Contribution:<br>
+    System Design, Electronic Design, Embedded C Development
+
+# SAMA Data Logger
+- project: SAMA Data Logger
+  role: Embedded System Engineer
+  duration: Jul.2011 &mdash; Oct. 2013
+  # url: "#"
+  description: >
+    Designed and developed a device to record water flow and pressure on the go and in case of exceeded set limits and priodic reports,
+    SMS and JSON messages sent via GSM and GPRS data connection:
+    <ul class="resume-item-list">
+    <li> Ultra-low power design</li>
+    <li> SIM800/900 as GSM module</li>
+    <li> PDU SMS protocol Implementation</li>
+    <li> Modbus comminication protocol for data download on PC</li></ul>
+
+    Contribution:<br>
+    System Design, Electronic Design, Embedded C Development, Communication Protocol Design
+
+# Drone Hardware and Localization
+- project: Drone Hardware and Localization
+  role: Electronic Engineer
+  duration: Jul.2010 &mdash; Jul. 2011
+  # url: "#"
+  description: >
+    Designed and built electronics to control a quad-copter robot as well as an indoor localization system based on ZigBee:
+    <ul class="resume-item-list">
+    <li> Desgned battery management system</li>
+    <li> Designed motor drivers</li>
+    <li> Designed RSSI measurement circuit</li>
+    <li> Designed indoor positioning algorithm based on RSSI</li></ul>
+
+    Contribution:<br>
+    Electronic Design, Xbee modules integration

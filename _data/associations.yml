@@ -1,0 +1,13 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Parsian Robotic Center
+  role: Volunteer Team Leader & Electronic Expert
+  year: Jun, 2008  &mdash; Jun, 2011
+#  url: https://www.peta.org/
+  summary: >
+    Design, develop and support of electronics for small size soccer robots.
+    <ul class="resume-item-list">
+    <li> Attended 4 Robocups and 5 open robotics competitions as a team leader and electronic expert with excellent team performance. </li>
+    <li>Designed and tested multi-agent point to multi-point communication system based on ZigBee. </li>
+    </ul>

@@ -17,10 +17,10 @@ resume_title:                   "Embedded System Engineer"
 resume_contact_email:           "saeed.poorjandaghi@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(+98)-937-982-0865"
-resume_contact_address:         "No. 8, Goharshad St., Nofel Loshato St., Tehran, Iran"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
-resume_header_contact_info:     "No. 8, Goharshad St., Nofel Loshato St., Tehran, Iran• (+98)-937-982-0865 • saeed.poorjandaghi@gmail.com"
+resume_header_contact_info:     "saeed.poorjandaghi@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p align=justify>Before all else, I love writing embedded code. From the day on which I wrote my first assembly program on an 8051 microcontroller and manipulating it to control the speed of a DC motor, I've been obsessed with dealing with little abstraction from computer's instruction set. Then I discover electronics and the power of digital and analog circuits to make things that really work and the robotics was a natural fit so I build my first robot from scratch.       Robotics is a never-ending puzzle that I am passionately engaged in solving.<br><br>
@@ -43,7 +43,7 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

@@ -1,0 +1,14 @@
+# Degree
+- degree: MSc in Control Engineering
+  uni: Amirkabir University of Technology
+  year: 2011 &mdash; 2013
+  awards:
+    - award: GPA:16.85/20.00
+  summary: "Dissertation: Large scale systems optimization using evolutionary algorithms applied in water management systems."
+
+- degree: BSc in Electrical Engineering
+  uni: Amirkabir University of Technology
+  year: 2007 &mdash; 2011
+  awards:
+    - award: GPA:16.72/20.00
+  summary: "Dissertation: Localization design and position control of a quadrotor."

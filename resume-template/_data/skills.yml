@@ -1,0 +1,40 @@
+# Skills
+# Technical
+- skill: Technical
+  description: >
+    <ul class="resume-item-list">
+    <li> Advanced C/C++ programming ARM Cortex-M, Microchips PIC and AVR </li>
+    <li>Excellent schematic & PCB layout design with Altium Designer </li>
+    <li>Expert at board bring up </li>
+    <li>Sound grasp of analog front-end (AFE) design </li>
+    <li>Sound grasp of analog and digital electronic design </li>
+    <li>Excellent SPI, I2C, UART, USB, Ethernet and MIPI signal controlling </li>
+    <li>Good skills in Modbus communication </li>
+    <li>Experienced in PC test software development using C# and Python </li>
+    <li>Familiar with ROS1, ROS2 and micro-ROS  </li>
+    </ul>
+
+# Analysis and Debuging
+- skill: Analysis and Debuging
+  description: >
+    <ul class="resume-item-list">
+    <li>Source Code Analysis </li>
+    <li>Tracing or Print Debugging </li>
+    <li>Remote Debugging </li>
+    <li>Post-mortem Debugging</li>
+    <li>Git </li>
+    <li>Testing </li>
+    <li>Outstanding in-depth hardware & software testing & troubleshooting </li>
+    </ul>
+
+# Management
+- skill: Management
+  description: >
+    <ul class="resume-item-list">
+    <li>Trello/Jira Project management </li>
+    <li>Writing proposals for business initiatives or projects, vision</li>
+    <li>Research, qualitative skills </li>
+    <li>Problem solving</li>
+    <li>Markdown documentation and Microsoft Office</li>
+    <li>Strategic planning </li>
+    </ul>
